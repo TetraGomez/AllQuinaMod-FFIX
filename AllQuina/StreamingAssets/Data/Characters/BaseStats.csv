@@ -1,0 +1,18 @@
+# This file contains base stats of characters.
+# You must set at least 12 different items.
+# -----------------------------------------------
+# Comment;Id;Dexterity;Strength;Magic;Will;Gems
+# ;Int32;UInt8;UInt8;UInt8;UInt8;UInt8
+# -----------------------------------------------
+Zidane;	0;	14;18;20;11;15
+Vivi;	1;	14;18;20;11;15
+Garnet;	2;	14;18;20;11;15
+Steiner;3;	14;18;20;11;15
+Freya;	4;	14;18;20;11;15
+Quina;	5;	14;18;20;11;15
+Eiko;	6;	14;18;20;11;15
+Amarant;7;	14;18;20;11;15
+Cinna;8;19;15;16;19;8
+Marcus;9;20;18;11;21;8
+Blank;10;23;21;12;21;12
+Beatrix;11;24;21;19;23;10
