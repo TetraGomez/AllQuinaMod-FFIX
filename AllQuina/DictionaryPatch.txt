@@ -1,0 +1,3 @@
+BattleMapModel BSC_WM_1715 BBG_B142
+BattleMapModel BSC_BU_E072 BBG_B036
+BattleMapModel BSC_WM_1413 BBG_B142
