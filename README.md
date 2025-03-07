@@ -2,7 +2,7 @@ This mod requires the Memoria Mod to work. Download that first! In the future I 
 1.  If you've never downloaded from Github before, check out the releases section on the right of the page and download the "AllQuina.7z", not the source code.
 2.  Install Memoria Mod, then open the game through Steam to open the launcher and update if necessary. Then close the Memoria Launcher.
 3.  Open the FINAL FANTASY IX install folder which is accessible from Steam by right clicking the game in the library list then going to "Manage > Browse local files"
-4.  Create a new folder in this directoy called "All Quina Mod" or something.
+4.  Create a new folder in this directory called "All Quina Mod" or something.
 5.  Place all the mod files in this folder, extract them from the zip file if you haven't already.
 6.  When you launch the game again, click on the "Mods" tab in the Memoria Launcher and the mod should be listed here. Make sure the gem next to the game is lit so that it is loaded.
 7.  Hit play and enjoy!
