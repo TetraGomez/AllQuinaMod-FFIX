@@ -1,4 +1,4 @@
-This mod requires the Memoria Mod to work. Download that first! In the future I will have the mod on the mod catalog in Memoria, but for now here are the manual install instructions:
+This mod requires the Memoria Mod to work. Download that first! (Link: https://www.nexusmods.com/finalfantasy9/mods/3) In the future I will have the mod on the mod catalog in Memoria, but for now here are the manual install instructions:
 1.  If you've never downloaded from Github before, check out the releases section on the right of the page and download the "AllQuina.7z", not the source code.
 2.  Install Memoria Mod, then open the game through Steam to open the launcher and update if necessary. Then close the Memoria Launcher.
 3.  Open the FINAL FANTASY IX install folder which is accessible from Steam by right clicking the game in the library list then going to "Manage > Browse local files"
